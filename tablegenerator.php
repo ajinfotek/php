@@ -71,7 +71,7 @@ if (isset($_POST["submit"])) {
             $('.form-group').append(myhtml);
         }
     </script>
-    hello
+  
 </body>
 
 </html>
